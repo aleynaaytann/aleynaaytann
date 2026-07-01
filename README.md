@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/aleynaaytann/)
 
-- ⚡ Fun fact: **I'm a Sage main in Valorant, a cat mom to Ares & Duman, and I can probably read your coffee cup fortune!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

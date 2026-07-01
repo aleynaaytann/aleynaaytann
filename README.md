@@ -36,6 +36,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aleynaaytann&show_icons=true&locale=en&bg_color=121212&title_color=E6E6FA&text_color=FADADD&icon_color=E6E6FA&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleynaaytann&background=121212&stroke=E6E6FA&ring=FADADD&fire=FADADD&currStreakNum=E6E6FA&currStreakLabel=FADADD&sideNums=E6E6FA&sideLabels=FADADD&dates=E6E6FA&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aleynaaytann&show_icons=true&locale=en&layout=compact&bg_color=121212&title_color=E6E6FA&text_color=FADADD&hide_border=true)
+
+<br><br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleynaaytann&show_icons=true&locale=en&bg_color=121212&title_color=E6E6FA&text_color=FADADD&icon_color=E6E6FA&hide_border=true)
+
+<br><br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleynaaytann&background=121212&stroke=E6E6FA&ring=FADADD&fire=FADADD&currStreakNum=E6E6FA&currStreakLabel=FADADD&sideNums=E6E6FA&sideLabels=FADADD&dates=E6E6FA&hide_border=true)
+
+</div>
